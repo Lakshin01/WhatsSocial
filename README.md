@@ -25,7 +25,7 @@ WhatsSocial? is an ambitious project aimed to reimagine Whatsapp for a modern au
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **API**: GraphQL
-- **Package Manager**: Bun
+- **Package Manager**: npm
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
 
@@ -42,7 +42,7 @@ WhatsSocial? is an ambitious project aimed to reimagine Whatsapp for a modern au
 
 ### Prerequisites
 
-- Bun Package Manager
+- npm Package Manager
 - Docker
 - Kubernetes
 
@@ -54,17 +54,17 @@ WhatsSocial? is an ambitious project aimed to reimagine Whatsapp for a modern au
     git clone https://github.com/Lakshin01/WhatsSocial.git
     ```
 
-2. **Navigate to the project directory and install dependencies using Bun**
+2. **Navigate to the project directory and install dependencies using npm**
 
     ```
     cd WhatsSocial
-    bun install
+    npm install
     ```
 
 3. **Run the application locally**
 
     ```
-    bun start
+    npm start
     ```
 
 ---
