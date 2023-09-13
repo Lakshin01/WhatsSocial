@@ -30,13 +30,13 @@ Before diving into the actual project, gaining a deep understanding of the follo
 
 ### Frontend
 
-- [ ] **Learn SCSS**: Get proficient in variables, nesting, mixins, and more.
+- [x] **Learn SCSS**: Get proficient in variables, nesting, mixins, and more.
 - [ ] **Socket.io**: For real-time features like messaging and video calling.
 - [ ] **Google OAuth**: For user authentication.
 
 ### Backend
 
-- [ ] **Node.js + Express**: Master RESTful API development.
+- [x] **Node.js + Express**: Master RESTful API development.
 - [ ] **GraphQL**: For a flexible and optimized API.
 - [ ] **Prisma**: Learn the ins and outs of this next-gen ORM.
 
@@ -46,7 +46,7 @@ Before diving into the actual project, gaining a deep understanding of the follo
 
 ### Containerization and Orchestration
 
-- [ ] **Docker**: Understand containerization and how to create Dockerfiles.
+- [x] **Docker**: Understand containerization and how to create Dockerfiles.
 - [ ] **Kubernetes**: Learn pod orchestration, scaling, and deployments.
 
 ### Mobile Development (Android)
@@ -56,7 +56,7 @@ Before diving into the actual project, gaining a deep understanding of the follo
 
 ## Additional Tasks 🌟
 
-- [ ] Set up project boilerplate
+- [x] Set up project boilerplate
 - [ ] Implement CI/CD pipeline
 - [ ] Write comprehensive tests
 - [ ] Optimize for performance and scalability
